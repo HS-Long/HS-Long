@@ -34,7 +34,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
         <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-        <img src="https://avatars3.githubusercontent.com/u/18692364?s=400&v=4">
+        <img src="https://avatars3.githubusercontent.com/u/18692364?s=400&v=4" alt="html5" width="40" height="40">
     </a>
     
 
