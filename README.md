@@ -1,5 +1,5 @@
 <h1 align="center">Heyoo 👋, I'm SeakLong.</h1>
-<h3 align="center">Currently is a Data Science 3nd-year student - AI & Machine Learning.</h3>
+<h3 align="center">Currently is a Data Science 3rd-year student - AI & Machine Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HS-Long&label=Profile%20views&color=0e75b6&style=flat" alt="ddnickkkk" /> </p>
