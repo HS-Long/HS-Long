@@ -37,7 +37,7 @@
         <img src="https://avatars3.githubusercontent.com/u/18692364?s=400&v=4" alt="html5" width="40" height="40">
     </a>
          <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://th.bing.com/th/id/R.6dd327badcd7fb81b64d32f00a81bb3c?rik=cFTT5OG3U2zMdQ&pid=ImgRaw&r=0" alt="html5" width="40" height="40">
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="dart" width="40" height="40"/>
     </a>
 
   
