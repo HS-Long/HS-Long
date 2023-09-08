@@ -37,8 +37,9 @@
         <img src="https://avatars3.githubusercontent.com/u/18692364?s=400&v=4" alt="html5" width="40" height="40">
     </a>
          <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/dart-original.svg" alt="dart" width="40" height="40"/>
-    </a>
+          <img id="dart-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/dart-original.svg" alt="dart" width="40" height="40"/>
+</a>
+    
 
   
     
