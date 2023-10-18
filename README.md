@@ -33,9 +33,7 @@
   <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
     <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
+
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://avatars3.githubusercontent.com/u/18692364?s=400&v=4" alt="java" width="40" height="40"/>
   </a>
