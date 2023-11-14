@@ -55,12 +55,9 @@
 
 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/seaborn-original.svg" alt="seaborn" width="40" height="40"/>
 </a>
 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
-</a>
 
 
 
