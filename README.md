@@ -52,13 +52,14 @@
   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/>
 </a>
+<h3 align="left">Seaborn and Matplotlib Plot:</h3>
+    <div align="center">
+        <img src="path/to/your/plot.png" alt="Seaborn and Matplotlib Plot" width="600">
+    </div>
 
-</p>
 
-  
-  
 
-    
+
 
   
     
