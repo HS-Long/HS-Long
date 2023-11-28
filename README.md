@@ -57,9 +57,10 @@
 </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" class="img-fluid">
+  <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" class="img-fluid img-thumbnail rounded">
 </a>
 
 
