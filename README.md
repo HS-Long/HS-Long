@@ -60,8 +60,13 @@
 
   <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40" class="img-fluid img-thumbnail rounded">
 </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="Matplotlib">
+    <img src="https://th.bing.com/th?id=ODLS.52bd85f3-a366-4464-9a67-664b779630fb&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="seaborn" width="38" height="38"/>
+  </a>
 
-
+  <a href="https://numpy.org/" target="_blank" rel="Numpy">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="css" width="40" height="40"/>
+  </a>
 
 </p>
 
