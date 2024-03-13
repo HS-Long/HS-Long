@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=seaklong&icon=5&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
 Hi, Seaklong, a data science student who loves AL/ML and web. I have skills in Python, SQL, TensorFlow, etc.I’m looking for opportunities to collaborate and contribute.
 
@@ -26,6 +27,6 @@ Hi, Seaklong, a data science student who loves AL/ML and web. I have skills in P
 ![](https://github-contributor-stats.vercel.app/api?username=HS-Long&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=seaklong&icon=5&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
