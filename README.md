@@ -1,4 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=seaklong&icon=5&color=1)](https://visitcount.itsvg.in)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 # 💫 About Me:
 Hi, Seaklong, a data science student who loves AL/ML and web. I have skills in Python, SQL, TensorFlow, etc.I’m looking for opportunities to collaborate and contribute.
 
