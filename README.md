@@ -29,9 +29,23 @@ Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
+## 🏅Extracurricular Activities
 
+- **UNESCO UNITWIN**
+  - Data Science Camp, 2022
+  - Data Science Camp Standard Level, 2023
+  - Data-Science intermediate Level, 2024
+    
+- **COGNITIVE CLASS.AI**
+  - SQL And Relational Databases 101, 2024
 
+- **Simplilearn**
+  - Machine Learning
 
+- **Coursera x DeepLearning.AI, Stanford University**
+  - Supervised Machine Learning: Regression and Classification
+
+   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HS-Long&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HS-long&theme=dracula&hide_border=false)<br/>
