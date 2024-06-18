@@ -1,13 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=HS-Long&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-# 💫 About Me:
+## 👤 About Me:
 Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills in Python, SQL, TensorFlow, etc.I’m looking for opportunities to collaborate and contribute.
 
 
-## 🌐 Socials:
+## 🕊️ Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/long.sweetboyzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seaklong-heng-8206a02b5/) 
 
-# 💻 Tech Stack:
+## 📦 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -46,7 +46,7 @@ Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills 
   - Supervised Machine Learning: Regression and Classification
 
    
-# 📊 GitHub Stats:
+## 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HS-Long&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HS-long&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HS-Long&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
