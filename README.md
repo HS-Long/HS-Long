@@ -59,6 +59,6 @@ Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills 
 ![](https://github-contributor-stats.vercel.app/api?username=HS-Long&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
+![snake gif](https://github.com/HS-Long/HS-Long/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
