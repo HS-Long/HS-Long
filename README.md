@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Seaklong;I'm+23+years+old;I+am+from+Cambodia;I+study+Data+Sceince;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 [![](https://visitcount.itsvg.in/api?id=HS-Long&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 ## 👤 About Me:
