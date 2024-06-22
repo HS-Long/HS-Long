@@ -2,12 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Seaklong;I'm+23+years+old;I+am+from+Cambodia;I+study+Data+Sceince;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=HS-Long&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="no caption" width="30%" />
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=HS-Long&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## 👤 About Me:
 Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills in Python, SQL, TensorFlow, etc.I’m looking for opportunities to collaborate and contribute.
