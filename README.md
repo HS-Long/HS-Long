@@ -18,6 +18,16 @@ Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills 
 ## 🕊️ Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/long.sweetboyzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seaklong-heng-8206a02b5/) 
 
+<p>
+    <a href="https://t.me/H_Seaklong" target="_blank">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/seaklong-heng-8206a02b5" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</p>
+
+
 ## 📦 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
