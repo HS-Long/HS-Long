@@ -16,7 +16,6 @@ Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills 
 
 
 ## 🕊️ Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/long.sweetboyzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seaklong-heng-8206a02b5/) 
 
 <p>
     <a href="https://t.me/H_Seaklong" target="_blank">
