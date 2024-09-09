@@ -6,7 +6,8 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="no caption" width="30%" />
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" alt="no caption" width="30%" />
+
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=HS-Long&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
