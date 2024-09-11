@@ -85,7 +85,7 @@ Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills 
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=HS-Long&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=HS-Long&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
 
 
