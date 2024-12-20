@@ -55,6 +55,7 @@ Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills 
 ![Kafka](https://img.shields.io/badge/kafka-%23000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/cassandra-%231FABEE.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 ## 🏅Extracurricular Activities
 
