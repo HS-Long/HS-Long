@@ -48,7 +48,13 @@ Hi, i'm Seaklong, a data science student who loves AL/ML and web. I have skills 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
+![Hadoop](https://img.shields.io/badge/hadoop-%23FF9900.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Hive](https://img.shields.io/badge/hive-%23FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=black)
+![PySpark](https://img.shields.io/badge/pyspark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Sqoop](https://img.shields.io/badge/sqoop-%23E34A6F.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-%23000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Cassandra](https://img.shields.io/badge/cassandra-%231FABEE.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🏅Extracurricular Activities
 
