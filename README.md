@@ -11,7 +11,10 @@
 
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=HS-Long&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<p align="left"> 
+  <b>Visitor Count</b><br>
+  <img src="https://count.getloli.com/@HS-Long?name=HS-Long&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</p>
 
 ## 👤 About Me:
 Hi, i'm Seaklong, a data science student who loves AI/ML and Backend. I have skills in Python, SQL, TensorFlow, Spring Boot, etc.I’m looking for opportunities to collaborate and contribute.
